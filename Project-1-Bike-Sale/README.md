@@ -31,7 +31,7 @@ Designed a professional dashboard with dynamic visualizations and **Slicers**, a
 * Education Level
 
 > *Dashboard Preview:*
-![Dashboard Preview](Project-1-Bike-Sale/Images/dashboard_preview.png)
+![Dashboard Preview](https://github.com/yenoren11/Excel-Data-Analysis-Portfolio/blob/main/Project-1-Bike-Sale/Images/dashboard_preview.png)
 
 ## 📊 Key Insights
 * **Demographics:** Customers in the **Middle Age** group (31-54) are the primary buyers of bikes.
